@@ -1,0 +1,28 @@
+# Core PDF parsing (fastest, coordinate-aware)
+pymupdf==1.24.9
+
+# Data handling & storage
+numpy==1.26.4
+
+torch==2.3.1
+transformers==4.44.2
+datasets==2.21.0
+scikit-learn==1.5.2
+pandas==2.2.3
+accelerate==0.34.2
+
+# NLP preprocessing (lecture-aligned: tokenization, lemmatization)
+nltk==3.8.1
+spacy==3.7.6
+
+# Image processing & perceptual hashing (deduplication)
+Pillow==10.4.0
+imagehash==4.3.1
+
+# ArXiv API + HTTP
+arxiv==2.1.3
+requests==2.32.3
+
+# Utilities
+pathlib2==2.3.7.post1
+tqdm==4.66.5
