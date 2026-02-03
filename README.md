@@ -1,4 +1,6 @@
-# Quantum Image Dataset Builder
+
+# Image to Text Dataset
+### Quantum Image Dataset Builder
 
 ## Overview
 The **Quantum Image Dataset Builder** is an automated pipeline designed to create high-quality datasets of quantum circuit diagrams from scientific literature (arXiv). 
